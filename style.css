@@ -3,11 +3,11 @@ body {
 }
 
 h1 {
-  color: red;
+  color: yellow;
   text-align: center;
 }
 
 p {
-  font-family: verdana;
+  font-family: comicsans;
   font-size: 40px;
 }
